@@ -1,2 +1,2 @@
 # Schreier-Sims
-Schreier–Sims algorithm 
+Schreier–Sims algorithm (SPBU project)
